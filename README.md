@@ -1,6 +1,6 @@
 # sqlalchemy-Climate_Analysis
 
-![images](https://user-images.githubusercontent.com/119361768/221124331-93435fc8-6897-4c63-b9d3-b68f4a64cb1f.jpg)
+![images](https://user-images.githubusercontent.com/119361768/221124496-7c603ea5-60b4-4a18-b872-ac6e720976a6.jpg)
 
 # Prompt
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
